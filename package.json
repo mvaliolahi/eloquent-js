@@ -1,0 +1,18 @@
+{
+  "name": "eloquent-js",
+  "version": "1.0.4",
+  "description": "JSON Query Builder",
+  "main": "EloquentJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "QueryBuilder",
+    "Eloquent",
+	"JSON Parser",
+	"JSON File"
+  ],
+  "author": "Meysam Valiolahi <mvaliolahi@gmail.com> (http://mvaliolahi.ir)",
+  "license": "ISC"
+}
